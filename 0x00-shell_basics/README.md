@@ -1,1 +1,1 @@
-Create a directory in tmp directory
+Display current directory contents, including hidden files
