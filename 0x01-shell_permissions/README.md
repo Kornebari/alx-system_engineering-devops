@@ -1,1 +1,1 @@
-Shell permissiin
+Print current user
